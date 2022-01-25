@@ -4,10 +4,6 @@
 # --------------------------------------Dictionaries---------------------------------
 # 1)
 
-from itertools import count
-from multiprocessing import cpu_count
-
-
 Dict_1 = {
     'Yash': 19,
     'Yug': 20,
