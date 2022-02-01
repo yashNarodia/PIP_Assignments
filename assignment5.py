@@ -1,6 +1,5 @@
-import re
-
-
+#Swap Case
+# GITHUB-LINK->https://github.com/yashNarodia/PIP_Assignments.git
 def CaseSwap(str):
     strOut = ''
     for char in str:
