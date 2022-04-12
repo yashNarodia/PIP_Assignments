@@ -1,3 +1,3 @@
-dict = {1:2,2:3,3:4}
-values = dict.values()
-print(values[1])
+
+file = open("marksheet.txt",'r')
+print(file)

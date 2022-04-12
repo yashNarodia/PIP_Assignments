@@ -1,0 +1,24 @@
+
+CHAROTAR UNIVERSITY SCIENCE & TECHNOLOGY
+SEMESTER GRADE REPORT
+FACULTY OF TECHNOLOGY AND ENGINEERING
+
+Name	:	YASH R NARODIA	  ID. No.	:	20CE060
+Programme	:	B.TECH. (COMPUTER)
+Month & Year	:	November 2021	Semester	:	3
+
+CA224	INTRODUCTION TO WEB DESIGNING	PRACTICAL  2.00	 AA
+CE244	SOFTWARE GROUP PROJECT-I	PRACTICAL      2.00	 AA
+CE251	JAVA PROGRAMMING	THEORY                 3.00	 AA
+                            PRACTICAL              2.00	 AA
+CE252	DIGITAL ELECTRONICS	THEORY                 3.00	 AB
+                            PRACTICAL              1.00	 BB
+CE257	DATA COMMUNICATION & NETWORKING	THEORY     4.00	 AB
+                                    PRACTICAL      1.00	 AA
+HS121.02 A	CREATIVITY, PROBLEM SOLVING AND INNOVATION	PRACTICAL   2.00	AB
+MA253	DISCRETE MATHEMATICS AND ALGEBRA	THEORY 4.00	 AA
+Semester Performance	Total Credits	Credits Earned  	SGPA
+                            24.00	        24.00 	        9.54
+Cumulative Performance	Total Credits	Credits Earned	   CGPA
+                             61.00	        61.00	       9.46 
+Previous SGPA : 9.89	Previous CGPA : 9.41	No. of BackLog : 0 
